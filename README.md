@@ -4,7 +4,7 @@ Shows when the next online races start for every series in **Le Mans Ultimate** 
 
 - One card per series: track, race length, cars, and the next start times
 - Filter by level (Beginner / Intermediate / Advanced) or race type (Daily sprint / Daily feature / Weekly)
-- RaceRoom: filter by region and see which track the series moves to next
+- RaceRoom: see how many drivers have signed up for each race, filter by region, and see which track the series moves to next
 - Updates itself every 5 minutes
 
 > **Unofficial fan tool.** It isn't made by or affiliated with Motorsport Games, Studio 397, Race Control or RaceRoom/KW Studios. It reads their public schedule pages and, for RaceRoom, the data the game client uses. If either site changes, the affected tab may stop working until a new version is released.
